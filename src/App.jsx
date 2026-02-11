@@ -52,7 +52,7 @@ function App() {
     if (e.key === 'Enter') handleSearch()
   }
   return (
-    <div className='app' style={{backgroundImage:`${bg}`}}>
+    <div className='app' style={{background:`${bg}`}}>
       <div className="container">
         <h1>한민엽의 날씨앱</h1>
         <div className="input-wrap">
