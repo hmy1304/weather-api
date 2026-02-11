@@ -12,7 +12,7 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    background: rgb(174, 198, 224);
+    background: rgb(174, 198, 224) no-repeat center/cover;
 }
 
 .container {
